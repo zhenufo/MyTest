@@ -1,7 +1,7 @@
 使用root用户登录，运行以下命令（推荐使用putty链接到你的vps主机）
 
 
-1、wget --no-check-certificate https://raw.githubusercontent.com/ianiceice/ssr-serverspeeder-onekey/master/shadowsocksonekey.sh https://raw.githubusercontent.com/ianiceice/ssr-serverspeeder-onekey/master/sysctl
+1、wget --no-check-certificate https://raw.githubusercontent.com/zhenufo/MyTest/master/shadowsocksonekey.sh https://raw.githubusercontent.com/zhenufo/MyTest/master/sysctl
 
 2、chmod +x shadowsocksonekey.sh
 
