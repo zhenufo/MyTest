@@ -1,1 +1,14 @@
-18576000076
+#!/bin/bash
+#请注意使用UTF-8 without BOM格式，否则可能会出错
+#脚本 by Sunbread
+########## Setting ##########
+threads=16 # 根据自身情况调整，若不会调整则按默认值即可
+########## Code ##########
+echo 伪多线程脚本 by Sunbread
+for((i=0;i<$threads;++i));do while :;do
+    curl 'https://www.google.com/voice/b/0/service/post' -H 'origin: https://www.google.com' -H 'accept-encoding: gzip, deflate, br' -H 'accept-language: en-US,en;q=0.8' -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36 QIHU 360EE' -H 'content-type: application/x-www-form-urlencoded;charset=UTF-8' -H 'accept: */*' -H 'referer: https://www.google.com/voice/b/0' -H 'authority: www.google.com' -H 'cookie: gv=MAWRBoMGj0-zSjy0yG-EubR5s5zAEWksEyxXvTkoMLpWJNsgufS-R5Br2q7qBW9BYKnHmA.; GV_NR=1; HSID=AxYSNsPZaY0nyiuER; SSID=Aei13OpusGMojiiut; APISID=LQ2arxseZgS2b_i5/AjqwO-LnsBSOh5zJ9; SAPISID=RTGpLSKv1N023-oY/AVddoJucq_3e6dK3n; NID=112=SjXxAUhk12Q_AwDI8vhRufGtCsLz_zfXiQulnJZLubhxtFjhtVAyq8vIpLkeIgECxW4O4Sc6svkz6ja2v5kuHw5vszIZCoFC8Fwqvy3aYn_uu1LJqZpKw39ujj5xWHbgSm9QhfMGe40uyOAWAT4dNB7j5cAwGD1fYoajoQ; SID=MAWRBgcf7hcfLJbYR3Pgl9w2cBaM_DVY9vBEOW25ahAM61qofe8XgHjw51gRd1JBbie6tQ.; S=grandcentral=rdtqZV-vmMdxe3zBhfq6bLMlJ3LJWJ4z:billing-ui-v3=7uCLtMznHkxWF1nry25ToDNBSoqpfZ_3:billing-ui-v3-efe=7uCLtMznHkxWF1nry25ToDNBSoqpfZ_3; _ga=GA1.1.1846463562.1505871203; _gid=GA1.1.1050962545.1505871203; 1P_JAR=2017-9-20-2; OGPC=845686784-4:' --data 'sid=3&mid=6&req=%5Bnull%2C%22%2B18576000076%22%2Ctrue%2C%22%22%5D&_rnr_se=Lc4vI8HplkbBm0aKKEWaRd%2BebDM%3D' --compressed >/dev/null 2>/dev/null
+    # 用刚才的命令替换中括号里的内容（包括两个中括号本身）
+done &
+done
+echo 结束脚本请使用Ctrl+C，使用其它方法可能会出现无法预料的异常，谢谢合作
+wait
