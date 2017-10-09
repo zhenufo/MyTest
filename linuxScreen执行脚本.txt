@@ -1,0 +1,42 @@
+wget -O gv.sh https://raw.githubusercontent.com/zhenufo/MyTest/master/gv.sh
+
+bash gv.sh &
+
+
+
+1）使用vi工具
+
+     # vi test.sh
+
+    （2）利用如下命令查看文件格式 
+     :set ff 或 :set fileformat 
+     可以看到如下信息 
+     fileformat=dos 或 fileformat=unix 
+     （3） 利用如下命令修改文件格式 
+     :set ff=unix 或 :set fileformat=unix 
+     :wq (存盘退出)
+
+	 
+2.创建screen
+
+创建一个名为vmvps的screen，
+
+	screen -S vmvps
+如果需要临时离开，而不想会话中的程序关闭（继续运行），可以用按住Ctrl，依次再按a,d
+
+3.恢复screen
+
+	screen -r vmvps
+如果忘了vmvps这个名字，可以使用4）的命令浏览当前vps中运行的screen；
+
+4.浏览系统中的screen
+
+	screen -ls
+5.退出screen
+
+	exit
+	 
+/etc/init.d/shadowsocks start
+/serverspeeder/bin/serverSpeeder.sh start
+
+https://www.google.com/voice#history
