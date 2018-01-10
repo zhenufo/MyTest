@@ -1,4 +1,4 @@
-使用root用户登录，运行以下命令（推荐使用putty链接到你的vps主机）
+一键安装ssr和锐速:使用root用户登录，运行以下命令（推荐使用putty链接到你的vps主机）
 
 
 1、wget --no-check-certificate https://raw.githubusercontent.com/zhenufo/MyTest/master/shadowsocksonekey.sh https://raw.githubusercontent.com/zhenufo/MyTest/master/sysctl
