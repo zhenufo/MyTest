@@ -1,4 +1,5 @@
-﻿#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://itv-tb.myukj.cn/tv/CCTV1.png" group-title="央视",CCTV-1 综合 HD
+#EXTM3U
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://itv-tb.myukj.cn/tv/CCTV1.png" group-title="央视",CCTV-1 综合 HD
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228318/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-name="CCTV2"tvg-logo="https://itv-tb.myukj.cn/tv/CCTV2.png" group-title="央视",CCTV-2 财经 HD
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228348/1/index.m3u8?fmt=ts2hls
