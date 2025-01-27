@@ -151,8 +151,6 @@ http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236261/index.m3u8
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236248/index.m3u8
 #EXTINF:-1 tvg-name="Y+" tvg-logo="https://itv-tb.myukj.cn/tv/Y+.png" group-title="娱乐",Y+ HD
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229999/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="Y2+" tvg-logo="https://itv-tb.myukj.cn/tv/Y+.png" group-title="娱乐",Y2+ HD
-http://gslbserv.itv.cmvideo.cn/6000000001000022586/1.m3u8?channel-id=wasusyt&Contentid=6000000001000022586&livemode=1&stbId=02A72056B66ADFDB0E169978285A3DA2
 #EXTINF:-1 tvg-name="重温经典" tvg-logo="https://itv-tb.myukj.cn/tv/重温经典.png" group-title="娱乐",重温经典 HD
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236436/396328931.smil/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-name="IHOT爱赛车" tvg-logo="https://itv-tb.myukj.cn/tv/IHOT爱赛车.png" group-title="IHOT",IHOT爱赛车 HD
