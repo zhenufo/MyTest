@@ -12,7 +12,7 @@ http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221232648/1/index.m3u8
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://itv-tb.myukj.cn/tv/CCTV5+.png" group-title="央视",CCTV-5+ 体育赛事 HD
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229684/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://itv-tb.myukj.cn/tv/CCTV6.png" group-title="央视",CCTV-6 电影 HD
-http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221232599/341734307.smil/index.m3u8?fmt=ts2hls
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221232599/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://itv-tb.myukj.cn/tv/CCTV7.png" group-title="央视",CCTV-7 国防军事 HD
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228330/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://itv-tb.myukj.cn/tv/CCTV8.png" group-title="央视",CCTV-8 电视剧 HD
@@ -165,3 +165,4 @@ http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235603/396328931.sm
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235622/396328931.smil/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-name="IHOT爱玩具" tvg-logo="https://itv-tb.myukj.cn/tv/IHOT爱玩具.png" group-title="IHOT",IHOT爱玩具 HD
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235626/396328931.smil/index.m3u8?fmt=ts2hls
+
