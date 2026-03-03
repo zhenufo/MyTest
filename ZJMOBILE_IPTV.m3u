@@ -153,34 +153,34 @@ http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235449/396328931.sm
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235445/396328931.smil/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-name="LSTV1" tvg-logo="https://itv-tb.myukj.cn/tv/LSTV1.png" group-title="浙江",丽水TV-1 新闻综合 HD
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235528/396328931.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="动作电影" tvg-logo="https://itv-tb.myukj.cn/tv/动作电影.png" group-title="剧场",动作电影  HD
-http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236183/index.m3u8
+#EXTINF:-1 tvg-name="古装剧场" tvg-logo="https://itv-tb.myukj.cn/tv/古装剧场.png" group-title="剧场",古装剧场  HD
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236240/index.m3u8
+#EXTINF:-1 tvg-name="重温经典" tvg-logo="https://itv-tb.myukj.cn/tv/重温经典.png" group-title="剧场",重温经典 HD
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236436/396328931.smil/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-name="金牌综艺" tvg-logo="https://itv-tb.myukj.cn/tv/金牌综艺.png" group-title="剧场",金牌综艺  HD
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236282/index.m3u8
-#EXTINF:-1 tvg-name="惊悚悬疑" tvg-logo="https://itv-tb.myukj.cn/tv/惊悚悬疑.png" group-title="剧场",惊悚悬疑  HD
-http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236223/index.m3u8
+#EXTINF:-1 tvg-name="动作电影" tvg-logo="https://itv-tb.myukj.cn/tv/动作电影.png" group-title="剧场",动作电影  HD
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236183/index.m3u8
 #EXTINF:-1 tvg-name="精品综合" tvg-logo="https://itv-tb.myukj.cn/tv/精品综合.png" group-title="剧场",精品综合  HD
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236153/index.m3u8
 #EXTINF:-1 tvg-name="军事评论" tvg-logo="https://itv-tb.myukj.cn/tv/军事评论.png" group-title="剧场",军事评论  HD
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236155/index.m3u8
-#EXTINF:-1 tvg-name="古装剧场" tvg-logo="https://itv-tb.myukj.cn/tv/古装剧场.png" group-title="剧场",古装剧场  HD
-http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236240/index.m3u8
-#EXTINF:-1 tvg-name="爱情喜剧" tvg-logo="https://itv-tb.myukj.cn/tv/爱情喜剧.png" group-title="剧场",爱情喜剧  HD
-http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236179/index.m3u8
 #EXTINF:-1 tvg-name="精品大剧" tvg-logo="https://itv-tb.myukj.cn/tv/精品大剧.png" group-title="剧场",精品大剧  HD
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236239/index.m3u8
+#EXTINF:-1 tvg-name="惊悚悬疑" tvg-logo="https://itv-tb.myukj.cn/tv/惊悚悬疑.png" group-title="剧场",惊悚悬疑  HD
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236223/index.m3u8
+#EXTINF:-1 tvg-name="爱情喜剧" tvg-logo="https://itv-tb.myukj.cn/tv/爱情喜剧.png" group-title="剧场",爱情喜剧  HD
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236179/index.m3u8
 #EXTINF:-1 tvg-name="精品纪录" tvg-logo="https://itv-tb.myukj.cn/tv/精品纪录.png" group-title="剧场",精品纪录  HD
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236276/index.m3u8
-#EXTINF:-1 tvg-name="重温经典" tvg-logo="https://itv-tb.myukj.cn/tv/重温经典.png" group-title="剧场",重温经典 HD
-http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236436/396328931.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="欧美影院" tvg-logo="https://itv-tb.myukj.cn/tv/欧美影院.png" group-title="剧场",欧美影院 HD
-http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228384/42613784.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="亚洲影院" tvg-logo="https://itv-tb.myukj.cn/tv/亚洲影院.png" group-title="剧场",亚洲影院 HD
-http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228365/42613673.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="探索纪实" tvg-logo="https://itv-tb.myukj.cn/tv/探索纪实.png" group-title="剧场",探索纪实 HD
-http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221231385/247557772.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="精品剧场" tvg-logo="https://itv-tb.myukj.cn/tv/精品剧场.png" group-title="剧场",精品剧场 HD
+#EXTINF:-1 tvg-name="精品剧场" tvg-logo="https://itv-tb.myukj.cn/tv/精品剧场.png" group-title="剧场",精品剧场
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221231330/247557658.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-name="欧美影院" tvg-logo="https://itv-tb.myukj.cn/tv/欧美影院.png" group-title="剧场",欧美影院
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228384/42613784.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-name="亚洲影院" tvg-logo="https://itv-tb.myukj.cn/tv/亚洲影院.png" group-title="剧场",亚洲影院
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228365/42613673.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-name="探索纪实" tvg-logo="https://itv-tb.myukj.cn/tv/探索纪实.png" group-title="剧场",探索纪实
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221231385/247557772.smil/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-name="咪咕视频" tvg-logo="https://itv-tb.myukj.cn/tv/咪咕视频.png" group-title="娱乐",咪咕综合体育
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235583/index.m3u8
 #EXTINF:-1 tvg-name="哒啵赛事" tvg-logo="https://itv-tb.myukj.cn/tv/哒啵赛事.png" group-title="娱乐",哒啵赛事 HD
@@ -227,6 +227,7 @@ http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228375/42613213.smi
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229380/78052125.smil/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-name="炫动卡通" tvg-logo="https://itv-tb.myukj.cn/tv/炫动卡通.png" group-title="少儿",炫动卡通  HD
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236296/index.m3u8
+
 
 
 
