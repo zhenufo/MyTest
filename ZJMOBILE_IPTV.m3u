@@ -213,20 +213,21 @@ http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235603/396328931.sm
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235622/396328931.smil/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-name="IHOT爱玩具" tvg-logo="https://itv-tb.myukj.cn/tv/IHOT爱玩具.png" group-title="娱乐",IHOT爱玩具 HD
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235626/396328931.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="少儿动漫" tvg-logo="https://itv-tb.myukj.cn/tv/少儿动漫.png" group-title="少儿",少儿动漫 HD
+#EXTINF:-1 tvg-name="少儿动漫" tvg-logo="https://itv-tb.myukj.cn/tv/少儿动漫.png" group-title="少儿",少儿动漫
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228387/42613922.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="嘉佳卡通" tvg-logo="https://itv-tb.myukj.cn/tv/嘉佳卡通.png" group-title="少儿",嘉佳卡通 HD
+#EXTINF:-1 tvg-name="嘉佳卡通" tvg-logo="https://itv-tb.myukj.cn/tv/嘉佳卡通.png" group-title="少儿",嘉佳卡通
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228593/59463357.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="优漫卡通" tvg-logo="https://itv-tb.myukj.cn/tv/优漫卡通.png" group-title="少儿",优漫卡通 HD
+#EXTINF:-1 tvg-name="优漫卡通" tvg-logo="https://itv-tb.myukj.cn/tv/优漫卡通.png" group-title="少儿",优漫卡通
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228378/42613464.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://itv-tb.myukj.cn/tv/金鹰卡通.png" group-title="少儿",金鹰卡通 HD
+#EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://itv-tb.myukj.cn/tv/金鹰卡通.png" group-title="少儿",金鹰卡通
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228362/42613591.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="卡酷少儿" tvg-logo="https://itv-tb.myukj.cn/tv/卡酷少儿.png" group-title="少儿",卡酷少儿 HD
+#EXTINF:-1 tvg-name="卡酷少儿" tvg-logo="https://itv-tb.myukj.cn/tv/卡酷少儿.png" group-title="少儿",卡酷少儿
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228375/42613213.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="优优宝贝" tvg-logo="https://itv-tb.myukj.cn/tv/优优宝贝.png" group-title="少儿",优优宝贝 HD
+#EXTINF:-1 tvg-name="优优宝贝" tvg-logo="https://itv-tb.myukj.cn/tv/优优宝贝.png" group-title="少儿",优优宝贝
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229380/78052125.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="炫动卡通" tvg-logo="https://itv-tb.myukj.cn/tv/炫动卡通.png" group-title="少儿",炫动卡通  HD
+#EXTINF:-1 tvg-name="炫动卡通" tvg-logo="https://itv-tb.myukj.cn/tv/炫动卡通.png" group-title="少儿",炫动卡通
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236296/index.m3u8
+
 
 
 
