@@ -115,7 +115,7 @@ http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235392/671452326.sm
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236260/index.m3u8
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://itv-tb.myukj.cn/tv/凤凰卫视资讯台.png" group-title="卫视",凤凰卫视资讯台 HD
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236197/index.m3u8
-#EXTINF:-1 tvg-name="山东教育" tvg-logo="https://itv-tb.myukj.cn/tv/山东教育.png" group-title="卫视",山东教育  HD
+#EXTINF:-1 tvg-name="山东教育" tvg-logo="https://itv-tb.myukj.cn/tv/山东教育.png" group-title="卫视",山东教育
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236210/index.m3u8
 #EXTINF:-1 tvg-name="浙江钱江都市" tvg-logo="https://itv-tb.myukj.cn/tv/浙江钱江都市.png" group-title="浙江",浙江钱江都市 HD
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221233005/1/index.m3u8?fmt=ts2hls
@@ -227,6 +227,7 @@ http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228375/42613213.smi
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229380/78052125.smil/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-name="炫动卡通" tvg-logo="https://itv-tb.myukj.cn/tv/炫动卡通.png" group-title="少儿",炫动卡通
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236296/index.m3u8
+
 
 
 
