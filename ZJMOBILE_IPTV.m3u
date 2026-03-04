@@ -165,9 +165,9 @@ http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236207/index.m3u8
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229999/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-name="精品体育" tvg-logo="https://itv-tb.myukj.cn/tv/精品体育.png" group-title="娱乐",精品体育 HD
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236300/index.m3u8
-#EXTINF:-1 tvg-name="晴彩竞技" tvg-logo="https://itv-tb.myukj.cn/tv/晴彩竞技.png" group-title="娱乐",晴彩竞技 HD
+#EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="https://itv-tb.myukj.cn/tv/睛彩竞技.png" group-title="娱乐",睛彩竞技 HD
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221232629/357220554.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="晴彩篮球" tvg-logo="https://itv-tb.myukj.cn/tv/晴彩篮球.png" group-title="娱乐",晴彩篮球 HD
+#EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://itv-tb.myukj.cn/tv/睛彩篮球.png" group-title="娱乐",睛彩篮球 HD
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221232657/357219566.smil/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-name="高清娱乐" tvg-logo="https://itv-tb.myukj.cn/tv/高清娱乐.png" group-title="娱乐",高清娱乐
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228575/59463282.smil/index.m3u8?fmt=ts2hls
@@ -231,5 +231,6 @@ http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228384/42613784.smi
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228365/42613673.smil/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-name="探索纪实" tvg-logo="https://itv-tb.myukj.cn/tv/探索纪实.png" group-title="剧场",探索纪实
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221231385/247557772.smil/index.m3u8?fmt=ts2hls
+
 
 
