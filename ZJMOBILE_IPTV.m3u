@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://live.fanmingming.cn/e.xml"
+#EXTM3U x-tvg-url="https://epg.catvod.com/epg.xml"
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://itv-tb.myukj.cn/tv/CCTV1.png" group-title="央视",CCTV-1 综合 HD
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228318/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-name="CCTV2"tvg-logo="https://itv-tb.myukj.cn/tv/CCTV2.png" group-title="央视",CCTV-2 财经 HD
@@ -231,6 +231,7 @@ http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228384/42613784.smi
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228365/42613673.smil/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-name="探索纪实" tvg-logo="https://itv-tb.myukj.cn/tv/探索纪实.png" group-title="剧场",探索纪实
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221231385/247557772.smil/index.m3u8?fmt=ts2hls
+
 
 
 
