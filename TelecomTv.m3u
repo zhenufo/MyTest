@@ -1,7 +1,4 @@
-#EXTM3U
-#PLAYLIST: IPTV Channel List
-#AUTHOR: Jenkins Auto Build
-#DATE: 2026-03-04 04:52:47
+#EXTM3U x-tvg-url="https://epg.catvod.com/epg.xml"
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV1.png" group-title="央视频道" response-time="35ms",CCTV1
 http://101.74.28.215:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV1.png" group-title="央视频道" response-time="35ms",CCTV1
